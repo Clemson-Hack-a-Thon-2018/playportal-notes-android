@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DyNotes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world_nprofiq_app">Hello World profiq app</string>
+    <string name="about">This application uses Dynepics <a href="https://www.playportal.io/">playPortal</a> platform API to deliver the data for all the necessary features you can see in this application<br/>
+        We used playPortal Android SDK which you can find on <a href="https://github.com/Dynepic/PPSDK-Android">GitHub</a>
+</string>
+</resources>
