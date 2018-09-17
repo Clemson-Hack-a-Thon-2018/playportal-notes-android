@@ -16,14 +16,7 @@ It uses their Android SDK to meet COPPA compliancy.
  5. Build the App and install it in android device or emulator
  
 ## DyNotes interface - Screenshots
-<img src="readmeImages/welcome.png" width="400" />
-<img src="readmeImages/login.png" width="400" />
-<img src="readmeImages/profile.png" width="400" />
-<img src="readmeImages/navMenu.png" width="400" />
-<img src="readmeImages/friendList.png" width="00" />
-<img src="readmeImages/noteList.png" width="400" />
-<img src="readmeImages/addNote.png" width="400" />
-<img src="readmeImages/about.png" width="400" />
+<img src="readmeImages/welcome.png" width="350" /> <img src="readmeImages/login.png" width="350" /> <img src="readmeImages/profile.png" width="350" /> <img src="readmeImages/navMenu.png" width="350" />  <img src="readmeImages/friendList.png" width="350" /> <img src="readmeImages/noteList.png" width="350" /> <img src="readmeImages/addNote.png" width="350" /> <img src="readmeImages/about.png" width="350" />
 
 ## Dynepic PlayPortal SDK:
 https://github.com/Dynepic/PPSDK-Android
