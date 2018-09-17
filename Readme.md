@@ -6,6 +6,7 @@ It uses their Android SDK to meet COPPA compliancy.
 ## Setting up DyNotes
  1. Download and install [Android Studio](https://developer.android.com/studio/)
  2. Clone this repo to your local machine
+ 
     ```
     git clone git@github.com:profiq/playportal-notes-android.git
     ```
@@ -15,15 +16,14 @@ It uses their Android SDK to meet COPPA compliancy.
  5. Build the App and install it in android device or emulator
  
 ## DyNotes interface - Screenshots
-![DyNotes Welcome screen](readmeImages/welcome.png "Dynotes Welcome screen")
-![DyNotes Login](readmeImages/login.png "Dynotes Login")
-![DyNotes Profile](readmeImages/profile.png "Dynotes Profile")
-![DyNotes Navigation Menu](readmeImages/navMenu.png "Dynotes Navigation Menu")
-![DyNotes Friend List](readmeImages/friendList.png "Dynotes Friend List")
-![DyNotes Notes List](readmeImages/noteList.png "Dynotes Notes List")
-![DyNotes Show Note](readmeImages/showNote.png "Dynotes Show Note")
-![DyNotes Add Note](readmeImages/addNote.png "Dynotes Add Note")
-![DyNotes About page](readmeImages/about.png "Dynotes About page")
+<img src="readmeImages/welcome.png" width="400" />
+<img src="readmeImages/login.png" width="400" />
+<img src="readmeImages/profile.png" width="400" />
+<img src="readmeImages/navMenu.png" width="400" />
+<img src="readmeImages/friendList.png" width="00" />
+<img src="readmeImages/noteList.png" width="400" />
+<img src="readmeImages/addNote.png" width="400" />
+<img src="readmeImages/about.png" width="400" />
 
 ## Dynepic PlayPortal SDK:
 https://github.com/Dynepic/PPSDK-Android
